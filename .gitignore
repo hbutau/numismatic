@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+__pycache__/
+build/
+dist/
+*.swp
+*.swo
+*.egg-info
+*~
+*.idea/
+venv/
+venv-numismatic/
+data/
